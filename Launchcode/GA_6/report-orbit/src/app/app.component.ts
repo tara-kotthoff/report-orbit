@@ -27,7 +27,7 @@ export class AppComponent {
           // TODO: add the new Satellite object to sourceList using: this.sourceList.push(satellite);
           this.sourceList.push(satellite);
         }
-        return sourceList;
+        return this.sourceList;
        }.bind(this));
     }.bind(this));
  
