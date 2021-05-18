@@ -1,0 +1,1 @@
+This is a group of very basic applications created following the tutorial "Practical Python for Beginners" by Sara Holderness on Pluralsight. The apps were used to teach data types, conditionals, lists and loops, reading JSON, and functions. I made a few changes to the original content, primarily just setting the variables to require input to make the apps interactive.
